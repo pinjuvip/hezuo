@@ -1725,7 +1725,7 @@ body {
 .cid-quvEnNo4UJ {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/background2.jpg");
+  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
 .cid-quvEnNo4UJ .title {
   margin-bottom: 2rem;
@@ -1748,6 +1748,9 @@ body {
 .cid-quvEnNo4UJ .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-quvEnNo4UJ H2 {
+  color: #ffffff;
 }
 .cid-quvF0IIfaC {
   padding-top: 30px;
